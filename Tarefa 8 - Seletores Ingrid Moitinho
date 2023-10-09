@@ -6,7 +6,9 @@
     <title>Cores de fundo em HTML Div</title>
 </head>
     <style>
-
+*{
+  background-color: aquamarine;
+     }
 div{
     display: inline-block;
     margin: -1.6px;
@@ -67,7 +69,9 @@ div{
 <div id="borda" class=  "vermelho"></div>
     </section>
 
-    
+ <h3>Aluna: Ingrid Moitinho de Souza - Trilha 1</h3>
+</body>
+</html>    
 
 </body>
 
