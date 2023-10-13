@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flor de Maracujá</title>
+    <style>
+      div {
+        height: 400px;
+        width: 400px;
+
+        border-width: 30px;
+        border-style: double;        border-color: rgb(44, 106, 177);
+       
+
+        background-image: url(https://i.pinimg.com/564x/6c/37/80/6c378052a07fecdc533f54cf6477b073.jpg);
+        text-align: center;
+        box-shadow: inset 22px 8px 20px 25px rgb(63, 98, 163);
+        background-size: cover;
+
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        
+
+        outline-width: 30px;
+        outline-style: double;
+        outline-color: rgba(133, 9, 116, 0.562);
+
+        margin: auto;
+        margin-top: 100px
+      }
+
+      p{
+        padding-top: 100px;
+        font-style: italic;
+        font-size: 50px;
+        color: black;
+        font-weight: bold;        
+      }
+
+    </style>
+  </head>
+  <body>
+    <div>
+        <p>Descodificadas</p>
+    </div>
+  </body>
+</html>
