@@ -10,7 +10,8 @@
         width: 400px;
 
         border-width: 30px;
-        border-style: double;        border-color: rgb(44, 106, 177);
+        border-style: double;        
+        border-color: rgb(44, 106, 177);
        
 
         background-image: url(https://i.pinimg.com/564x/6c/37/80/6c378052a07fecdc533f54cf6477b073.jpg);
