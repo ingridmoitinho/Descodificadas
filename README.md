@@ -1,4 +1,4 @@
-# Atividades - Descodificadas Trilha 1 ❤️
+# Atividades - Descodificadas Trilha 1 💖
 
 Criei esses projetinhos com base nos conhecimentos obtidos durante a trilha 1 do curso Descodificadas.
 
@@ -9,4 +9,4 @@ HTML & CSS
 Visual Studio Code
 ```
 
-## Muito obrigada, aceito sugestões! ❤️💻
+## Muito obrigada, aceito sugestões! ❤️💻 
