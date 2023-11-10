@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&family=Montserrat:wght@500&display=swap');
+
 body {
     background-color: rgb(216, 168, 176);
     text-align: center;
@@ -9,11 +11,13 @@ body {
   }
   
   h1 {
+    font-family: 'Montserrat', sans-serif;
     color: rgb(129, 5, 104);
     font-size: 50px;
   }
   
   h2 {
+    font-family: 'Montserrat Alternates', sans-serif;
     color: purple;
   }
   
@@ -40,6 +44,7 @@ body {
   }
   
   p {
-    color: rgb(255, 0, 128);
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: rgb(153, 4, 79);
   }
   
